@@ -33,19 +33,19 @@ export const siteConfig = {
     {
       name: "Pipeline de Web Scraping y Procesamiento con IA", //[cite: 2]
       description: "Extracción automatizada de catálogos con manejo de paginación y rate limiting. Limpieza y almacenamiento de datos no estructurados para análisis con modelos de IA.", //[cite: 2]
-      link: "https://github.com/mathewpardo/TU_REPO_DE_SCRAPING", 
+      link: "https://github.com/mathewpardo/web-scraper", 
       skills: ["Python", "Playwright", "Scrapy", "ETL"], //[cite: 1, 2]
     },
     {
       name: "Arquitectura de Microservicios con Spring Boot", //[cite: 2]
       description: "Contenerización de arquitectura multi-servicio con Docker Compose (backend, base de datos y servicios auxiliares) e implementación de pruebas de rendimiento.", //[cite: 2]
-      link: "https://github.com/mathewpardo/TU_REPO_MICROSERVICIOS",
+      link: "https://github.com/mathewpardo/github-ev2-mingeso",
       skills: ["Java", "Spring Boot", "Docker Compose", "JMeter"], //[cite: 1, 2]
     },
     {
       name: "Plataforma Web Full Stack", //[cite: 2]
       description: "Desarrollo full stack con backend REST en Spring Boot y frontend en React.js, configurado con Maven bajo principios de diseño SOLID.", //[cite: 2]
-      link: "https://github.com/mathewpardo/TU_REPO_FULLSTACK",
+      link: "https://github.com/mathewpardo/demoapp",
       skills: ["React.js", "Spring Boot", "REST APIs", "SOLID"], //[cite: 1, 2]
     },
   ],
